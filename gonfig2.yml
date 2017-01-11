@@ -1,0 +1,6 @@
+highres:
+  resolution_x: 640
+  resolution_y: 480
+lowres:
+  resolution_x: 320
+  resolution_y: 240 
